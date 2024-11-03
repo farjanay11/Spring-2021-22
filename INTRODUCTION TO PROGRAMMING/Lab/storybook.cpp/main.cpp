@@ -1,0 +1,1 @@
+Data Source=LAPTOP-NP8U8PK6\SQLEXPRESS;Initial Catalog=MyDB;Integrated Security=True
