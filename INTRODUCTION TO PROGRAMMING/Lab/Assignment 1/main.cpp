@@ -6,7 +6,7 @@ class Person
 private:
     string name;
     int age;
-    string bloodgroup;
+    string bloodgroup; 
 public:
     Person()
     {
