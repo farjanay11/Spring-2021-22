@@ -2,7 +2,7 @@
 #include<conio.h>
 using namespace std;
 
-int main()
+int main() 
 {
     int num1=6;
     int num2=4;
